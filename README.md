@@ -7,3 +7,4 @@ I mostly referenced the textbook and our lecture notes, and bootstrap. Most CSS 
 `index.js` is the JavaScript part that interact with the form element.
 ### Outside source
 Bootstrap v5.2
+color theme picked from this website https://paletton.com/
